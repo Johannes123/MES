@@ -1,0 +1,87 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/johan/Documents/VHDL Beispiele/rw_fsm/sim
+Erw_fsm
+w1537363053
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+8../vhdl/rw_fsm_.vhd
+F../vhdl/rw_fsm_.vhd
+l0
+L42
+VM2SBFm;:H]ezLPT1n]`G:2
+!s100 ;cDn@eQ0l52`C3Qj<18Pn1
+Z3 OV;C;10.5b;63
+32
+Z4 !s110 1568917970
+!i10b 1
+Z5 !s108 1568917970.000000
+!s90 -reportprogress|300|../vhdl/rw_fsm_.vhd|
+!s107 ../vhdl/rw_fsm_.vhd|
+!i113 1
+Z6 tExplicit 1 CvgOpt 0
+Artl
+w1568917966
+DEx4 work 6 rw_fsm 0 22 M2SBFm;:H]ezLPT1n]`G:2
+R1
+R2
+8../vhdl/rw_fsm_rtl.vhd
+F../vhdl/rw_fsm_rtl.vhd
+l58
+L42
+Ve^gSc_f=^cE0dkBFhcROe2
+!s100 l<HSJmb<15oYNDD1Yi77l2
+R3
+32
+R4
+!i10b 1
+R5
+!s90 -reportprogress|300|../vhdl/rw_fsm_rtl.vhd|
+!s107 ../vhdl/rw_fsm_rtl.vhd|
+!i113 1
+R6
+Etb_rw_fsm
+Z7 w1537371093
+R1
+R2
+R0
+Z8 8../tb/tb_rw_fsm.vhd
+Z9 F../tb/tb_rw_fsm.vhd
+l0
+L14
+VzDNIS;Y;0OAT0@b8]0=ZR2
+!s100 nkaz[13EK@zn>IAH=5ebE1
+R3
+32
+R4
+!i10b 1
+R5
+Z10 !s90 -reportprogress|300|../tb/tb_rw_fsm.vhd|
+Z11 !s107 ../tb/tb_rw_fsm.vhd|
+!i113 1
+R6
+Asim
+R1
+R2
+Z12 DEx4 work 9 tb_rw_fsm 0 22 zDNIS;Y;0OAT0@b8]0=ZR2
+l49
+L17
+Z13 VD]Uj`K;>HEza]HVR;165K2
+Z14 !s100 oNHdZCj:56fRl568m_LUN1
+R3
+32
+R4
+!i10b 1
+R5
+R10
+R11
+!i113 1
+R6

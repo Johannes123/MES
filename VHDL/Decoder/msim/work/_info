@@ -1,0 +1,343 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/intelFPGA/example_design-20190913/design/fulladder/msim
+Edecoder
+Z1 w1568450490
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/intelFPGA/Decoder/msim
+Z5 8../vhdl/decoder_.vhd
+Z6 F../vhdl/decoder_.vhd
+l0
+L42
+VMW2T8Zc=O^oQQC6la;U<I2
+!s100 NcdYbBfIe3:GdKF:;Ml[G2
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1568450494
+!i10b 1
+Z9 !s108 1568450494.000000
+Z10 !s90 -reportprogress|300|../vhdl/decoder_.vhd|
+Z11 !s107 ../vhdl/decoder_.vhd|
+!i113 1
+Z12 tExplicit 1 CvgOpt 0
+Astruc
+R2
+R3
+DEx4 work 7 decoder 0 22 MW2T8Zc=O^oQQC6la;U<I2
+l49
+L47
+V6PMZ@mXJUV<bNo86D@=d]1
+!s100 T17zV[eUOlzUSnHm@L8`G2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Efulladder
+Z13 w1503494756
+R2
+R3
+R0
+8../vhdl/fulladder_.vhd
+F../vhdl/fulladder_.vhd
+l0
+L42
+VTZ<8mCEORCPabVAZKPn322
+!s100 ]2Y?zPaRY@m;O2e=QHA5e0
+R7
+32
+Z14 !s110 1568441510
+!i10b 1
+Z15 !s108 1568441510.000000
+!s90 -reportprogress|300|../vhdl/fulladder_.vhd|
+!s107 ../vhdl/fulladder_.vhd|
+!i113 1
+R12
+Astruc
+Z16 DEx4 work 9 fulladder 0 22 TZ<8mCEORCPabVAZKPn322
+R2
+R3
+8../vhdl/fulladder_struc.vhd
+F../vhdl/fulladder_struc.vhd
+l62
+L42
+Ve;TG6Kd[fgUhWn5XNIKR30
+!s100 ;ca?TmicDf7eLRn:c3>L;1
+R7
+32
+R14
+!i10b 1
+R15
+!s90 -reportprogress|300|../vhdl/fulladder_struc.vhd|
+!s107 ../vhdl/fulladder_struc.vhd|
+!i113 1
+R12
+Cfulladder_struc_cfg
+efulladder
+astruc
+Z17 DEx4 work 6 orgate 0 22 Z>WRGE@5lRLhd0b8;ET`I3
+Z18 DEx4 work 9 halfadder 0 22 j6FJCX2<H7zoEikd]MiNn0
+DAx4 work 9 fulladder 5 struc 22 e;TG6Kd[fgUhWn5XNIKR30
+R2
+R3
+R16
+R13
+R0
+8../vhdl/fulladder_struc_cfg.vhd
+F../vhdl/fulladder_struc_cfg.vhd
+l0
+L39
+VZ:_O5UU?26=;M7_eS856:2
+!s100 dGzV_iYQf@3L60eF_XaV71
+R7
+32
+R14
+!i10b 0
+R15
+!s90 -reportprogress|300|../vhdl/fulladder_struc_cfg.vhd|
+!s107 ../vhdl/fulladder_struc_cfg.vhd|
+!i113 1
+R12
+Ehalfadder
+R13
+R2
+R3
+R0
+8../vhdl/halfadder_.vhd
+F../vhdl/halfadder_.vhd
+l0
+L42
+Vj6FJCX2<H7zoEikd]MiNn0
+!s100 >1g<7OnYeS^4>g1TJUbIV1
+R7
+32
+Z19 !s110 1568441509
+!i10b 1
+Z20 !s108 1568441509.000000
+!s90 -reportprogress|300|../vhdl/halfadder_.vhd|
+!s107 ../vhdl/halfadder_.vhd|
+!i113 1
+R12
+Artl
+R18
+R2
+R3
+8../vhdl/halfadder_rtl.vhd
+F../vhdl/halfadder_rtl.vhd
+l43
+L42
+V5`b2>6QJPWjizA9L5=lY31
+!s100 GX0g:^`fY96KE<DTAWnlo3
+R7
+32
+R19
+!i10b 1
+R20
+!s90 -reportprogress|300|../vhdl/halfadder_rtl.vhd|
+!s107 ../vhdl/halfadder_rtl.vhd|
+!i113 1
+R12
+Chalfadder_rtl_cfg
+ehalfadder
+artl
+DAx4 work 9 halfadder 3 rtl 22 5`b2>6QJPWjizA9L5=lY31
+R2
+R3
+R18
+R13
+R0
+8../vhdl/halfadder_rtl_cfg.vhd
+F../vhdl/halfadder_rtl_cfg.vhd
+l0
+L39
+V9C@^g8a4Azb0>jJd7IC4`2
+!s100 76]@<EjfV@2<j[>b5=bM<3
+R7
+32
+R14
+!i10b 0
+R15
+!s90 -reportprogress|300|../vhdl/halfadder_rtl_cfg.vhd|
+!s107 ../vhdl/halfadder_rtl_cfg.vhd|
+!i113 1
+R12
+Eorgate
+R13
+R2
+R3
+R0
+8../vhdl/orgate_.vhd
+F../vhdl/orgate_.vhd
+l0
+L42
+VZ>WRGE@5lRLhd0b8;ET`I3
+!s100 b55lWW=[f4UQmjFUoT0nY0
+R7
+32
+R14
+!i10b 1
+R15
+!s90 -reportprogress|300|../vhdl/orgate_.vhd|
+!s107 ../vhdl/orgate_.vhd|
+!i113 1
+R12
+Artl
+R17
+R2
+R3
+8../vhdl/orgate_rtl.vhd
+F../vhdl/orgate_rtl.vhd
+l43
+L42
+V6mekM>K<i4:;LMz19Kbe02
+!s100 jOA23b570P@ojZ7S:aGnk1
+R7
+32
+R14
+!i10b 1
+R15
+!s90 -reportprogress|300|../vhdl/orgate_rtl.vhd|
+!s107 ../vhdl/orgate_rtl.vhd|
+!i113 1
+R12
+Corgate_rtl_cfg
+eorgate
+artl
+DAx4 work 6 orgate 3 rtl 22 6mekM>K<i4:;LMz19Kbe02
+R2
+R3
+R17
+R13
+R0
+8../vhdl/orgate_rtl_cfg.vhd
+F../vhdl/orgate_rtl_cfg.vhd
+l0
+L39
+VVln_VW50im8SmzhY:nm3E0
+!s100 B7Ba@5LPH=C@]<68;Y2l:0
+R7
+32
+R14
+!i10b 0
+R15
+!s90 -reportprogress|300|../vhdl/orgate_rtl_cfg.vhd|
+!s107 ../vhdl/orgate_rtl_cfg.vhd|
+!i113 1
+R12
+Etb_decoder
+w1568447202
+R2
+R3
+R4
+8../tb/tb_decoder_.vhd
+F../tb/tb_decoder_.vhd
+l0
+L42
+VNhO@RzVcmE>?AAGLZTZCf2
+!s100 o5O_MlabffTiVMWHYJjnF1
+R7
+32
+R8
+!i10b 1
+R9
+!s90 -reportprogress|300|../tb/tb_decoder_.vhd|
+!s107 ../tb/tb_decoder_.vhd|
+!i113 1
+R12
+Asim
+w1568450449
+Z21 DEx4 work 10 tb_decoder 0 22 NhO@RzVcmE>?AAGLZTZCf2
+R2
+R3
+Z22 8../tb/tb_decoder_sim.vhd
+Z23 F../tb/tb_decoder_sim.vhd
+l52
+L42
+V<L>z3NNchh]ki;M:S1LU?0
+!s100 heP?bYYzm6z=hIX3[Lh;22
+R7
+32
+!s110 1568450495
+!i10b 1
+!s108 1568450495.000000
+Z24 !s90 -reportprogress|300|../tb/tb_decoder_sim.vhd|
+!s107 ../tb/tb_decoder_sim.vhd|
+!i113 1
+R12
+Etb_fulladder
+R13
+R2
+R3
+R0
+8../tb/tb_fulladder_.vhd
+F../tb/tb_fulladder_.vhd
+l0
+L42
+VSR?1gAaF3FChoBJYOVGY=2
+!s100 z@mJV?Xb_f6BEiQd2_Sco0
+R7
+32
+R14
+!i10b 1
+R15
+!s90 -reportprogress|300|../tb/tb_fulladder_.vhd|
+!s107 ../tb/tb_fulladder_.vhd|
+!i113 1
+R12
+Asim
+Z25 DEx4 work 12 tb_fulladder 0 22 SR?1gAaF3FChoBJYOVGY=2
+R2
+R3
+8../tb/tb_fulladder_sim.vhd
+F../tb/tb_fulladder_sim.vhd
+l59
+L42
+V`=B5Da2U;]NeG8oo6cQDL3
+!s100 YH4JK=?mL<aRGkO9_TRCz2
+R7
+32
+R14
+!i10b 1
+R15
+!s90 -reportprogress|300|../tb/tb_fulladder_sim.vhd|
+!s107 ../tb/tb_fulladder_sim.vhd|
+!i113 1
+R12
+Ctb_fulladder_sim_cfg
+etb_fulladder
+asim
+R16
+DCx4 work 19 fulladder_struc_cfg 0 22 Z:_O5UU?26=;M7_eS856:2
+DAx4 work 12 tb_fulladder 3 sim 22 `=B5Da2U;]NeG8oo6cQDL3
+R25
+R2
+R3
+R13
+R0
+8../tb/tb_fulladder_sim_cfg.vhd
+F../tb/tb_fulladder_sim_cfg.vhd
+l0
+L41
+VNTA:QCTXj9F@ba7FkK98]2
+!s100 @^Jen[=P=g0dz>n=]jJa]1
+R7
+32
+R14
+!i10b 1
+R15
+!s90 -reportprogress|300|../tb/tb_fulladder_sim_cfg.vhd|
+!s107 ../tb/tb_fulladder_sim_cfg.vhd|
+!i113 1
+R12

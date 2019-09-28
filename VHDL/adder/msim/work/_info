@@ -1,0 +1,104 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/intelFPGA/adder/msim
+Erc_adder
+Z1 w1568455238
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8../vhdl/adder_.vhd
+Z5 F../vhdl/adder_.vhd
+l0
+L42
+ViYoWO?06kM`?>mCKg]SLG1
+!s100 oNH_nPfbQME`gMjGEl`=a2
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1568455243
+!i10b 1
+Z8 !s108 1568455243.000000
+Z9 !s90 -reportprogress|300|../vhdl/adder_.vhd|
+Z10 !s107 ../vhdl/adder_.vhd|
+!i113 1
+Z11 tExplicit 1 CvgOpt 0
+Astructural
+R2
+R3
+DEx4 work 8 rc_adder 0 22 iYoWO?06kM`?>mCKg]SLG1
+l57
+L49
+VG`:P?Yn0Nmk=dlVh:7YBE1
+!s100 2TBAIg_Z4:Vclz>RGQ@f:2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+Erc_adder_tst
+Z12 w1568454760
+R2
+R3
+R0
+Z13 8../tb/tb_adder_.vhd
+Z14 F../tb/tb_adder_.vhd
+l0
+L42
+VXSQ:ln>94L[HaNJCjYoUU1
+!s100 hT]9h?`LbYLYU@Abi5DbA2
+R6
+32
+R7
+!i10b 1
+R8
+Z15 !s90 -reportprogress|300|../tb/tb_adder_.vhd|
+Z16 !s107 ../tb/tb_adder_.vhd|
+!i113 1
+R11
+Abeh
+R2
+R3
+Z17 DEx4 work 12 rc_adder_tst 0 22 XSQ:ln>94L[HaNJCjYoUU1
+l55
+L46
+Z18 VZHKV_1]8248nd?n?Lofoi2
+Z19 !s100 YB=?@R=@DLo98NAKV;HIi1
+R6
+32
+R7
+!i10b 1
+R8
+R15
+R16
+!i113 1
+R11
+Etb_adder
+w1568453208
+R2
+R3
+R0
+R13
+R14
+l0
+L42
+V];FKPK`WQFGIdYIn;1>;62
+!s100 :cKP?n7QaHKnzZh3JM=?P2
+R6
+32
+!s110 1568453213
+!i10b 1
+!s108 1568453213.000000
+R15
+R16
+!i113 1
+R11

@@ -1,0 +1,121 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/johan/Documents/VHDL Beispiele/flipflop/msim
+Eff3
+Z1 w1568823882
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8../vhdl/flipflop_.vhd
+Z5 F../vhdl/flipflop_.vhd
+l0
+L3
+VBdM5`I?nbJ7R[YRPABfAG3
+!s100 B5a5kS4[[3mWRMURVCZ<M1
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1568825033
+!i10b 1
+Z8 !s108 1568825033.000000
+Z9 !s90 -reportprogress|300|../vhdl/flipflop_.vhd|
+Z10 !s107 ../vhdl/flipflop_.vhd|
+!i113 1
+Z11 tExplicit 1 CvgOpt 0
+Artl
+R2
+R3
+DEx4 work 3 ff3 0 22 BdM5`I?nbJ7R[YRPABfAG3
+l14
+L13
+Vj;PhZ`X<nkDfnEJfnRcTF0
+!s100 :;lg65H450Con@?=TB`GR1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+Eflipflop
+Z12 w1568825066
+R2
+R3
+R0
+R4
+R5
+l0
+L3
+V3QoPQlaW35R5bfoDW^c2l3
+!s100 F=K=jLmUkocMC:59oLdn?0
+R6
+32
+Z13 !s110 1568827639
+!i10b 1
+Z14 !s108 1568827639.000000
+R9
+R10
+!i113 1
+R11
+Artl
+R2
+R3
+DEx4 work 8 flipflop 0 22 3QoPQlaW35R5bfoDW^c2l3
+l14
+L13
+VHRfzQ=e^>;[EOm99Qfam50
+!s100 3`8Ak=52clKlWZ1n:_AJ42
+R6
+32
+R13
+!i10b 1
+R14
+R9
+R10
+!i113 1
+R11
+Etb_flipflop
+Z15 w1568826202
+R2
+R3
+R0
+Z16 8../tb/tb_flipflop_.vhd
+Z17 F../tb/tb_flipflop_.vhd
+l0
+L4
+Vlc0D6O=^6_@[l`iDHcZZ;3
+!s100 X[1zg<fE[h;H37Fg;Nd^C3
+R6
+32
+R13
+!i10b 1
+R14
+Z18 !s90 -reportprogress|300|../tb/tb_flipflop_.vhd|
+Z19 !s107 ../tb/tb_flipflop_.vhd|
+!i113 1
+R11
+Asim
+R2
+R3
+Z20 DEx4 work 11 tb_flipflop 0 22 lc0D6O=^6_@[l`iDHcZZ;3
+l23
+L7
+Z21 V0=B6oR32HVi4QYheQHI=F2
+Z22 !s100 2L8H`dVFndB4]E]noRzdO3
+R6
+32
+R13
+!i10b 1
+R14
+R18
+R19
+!i113 1
+R11

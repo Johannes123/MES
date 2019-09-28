@@ -1,0 +1,129 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/fulladder/msim
+Eand2databusses
+Z0 w1568441261
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/intelFPGA/and2databusses/msim
+Z4 8../vhdl/and2databusses_.vhd
+Z5 F../vhdl/and2databusses_.vhd
+l0
+L4
+VkHF::cgRn[ezVk>PZ5>G22
+!s100 GiJ]KJh39j`h87KeUVEmn1
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1568445176
+!i10b 1
+Z8 !s108 1568445176.000000
+Z9 !s90 -reportprogress|300|../vhdl/and2databusses_.vhd|
+Z10 !s107 ../vhdl/and2databusses_.vhd|
+!i113 1
+Z11 tExplicit 1 CvgOpt 0
+Astruc
+R1
+R2
+Z12 DEx4 work 14 and2databusses 0 22 kHF::cgRn[ezVk>PZ5>G22
+l11
+L10
+VUC_;0Pz:c15c0_YRk11>[2
+!s100 >2JI7_5QflP9G0^5EK1TQ0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+Artl
+R1
+R2
+R12
+l11
+L10
+VRB`EB<8h]WP:2Xi0W;F@Q3
+!s100 CJ=c^0Ma7fg;YmnRLb_Ag3
+R6
+32
+!s110 1568440754
+!i10b 1
+!s108 1568440754.000000
+R9
+R10
+!i113 1
+R11
+w1568440623
+Cand2databusses_struc_cfg
+eand2databusses
+astruc
+DAx4 work 14 and2databusses 5 struc 22 UC_;0Pz:c15c0_YRk11>[2
+R1
+R2
+R12
+w1568440908
+R3
+R4
+R5
+l0
+L15
+VR0;74K:GT_1?64T48N2H>2
+!s100 MD36J>MYNN]mFJdT[VLA:0
+R6
+32
+!s110 1568441200
+!i10b 0
+!s108 1568441200.000000
+R9
+R10
+!i113 1
+R11
+Etb_and2databusses
+w1568398304
+R1
+R2
+R3
+8../tb/tb_and2databusses_.vhd
+F../tb/tb_and2databusses_.vhd
+l0
+L42
+VGW94hBO;P3z7K4CFjDQYC3
+!s100 4[3;QzI8446l_6XGe5Y9=1
+R6
+32
+R7
+!i10b 1
+R8
+!s90 -reportprogress|300|../tb/tb_and2databusses_.vhd|
+!s107 ../tb/tb_and2databusses_.vhd|
+!i113 1
+R11
+Asim
+Z13 w1568400860
+Z14 DEx4 work 17 tb_and2databusses 0 22 GW94hBO;P3z7K4CFjDQYC3
+R1
+R2
+Z15 8../tb/tb_and2databusses_sim.vhd
+Z16 F../tb/tb_and2databusses_sim.vhd
+l55
+L42
+Z17 VSIdV05QnR9NP9WI;=hXVV2
+Z18 !s100 TlU]NJnOf2]>aN;[U]GWK0
+R6
+32
+R7
+!i10b 1
+R8
+Z19 !s90 -reportprogress|300|../tb/tb_and2databusses_sim.vhd|
+!s107 ../tb/tb_and2databusses_sim.vhd|
+!i113 1
+R11
