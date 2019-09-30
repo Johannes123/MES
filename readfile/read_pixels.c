@@ -52,8 +52,8 @@ int read_pixels(char *file, struct px **pixel)
 		{
 			for(i_y = 0; i_y < y; i_y++)
 			{
-				fscanf(filepointer, "%d %d %d", &(*pixel)->r, &(*pixel)->g, &(*pixel)->b);
-				*pixel++;
+				fscanf(filepointer, "%c %c %c", &(*pixel)->r, &(*pixel)->g, &(*pixel)->b);
+				+pixel++;
 			}
 		}
 		
@@ -62,8 +62,8 @@ int read_pixels(char *file, struct px **pixel)
 		{
 			for(i_y = 0; i_y < y; i_y++)
 			{
-				printf("%d %d %d\n", (*pixel)->r, (*pixel)->g, (*pixel)->b);
-				*pixel++;
+				printf("%c %c %c\n", (*pixel)->r, (*pixel)->g, (*pixel)->b);
+				+pixel++;
 			}
 		}
 		
